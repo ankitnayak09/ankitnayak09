@@ -1,8 +1,7 @@
-<h1 align="center">Hi 👋 I'm Ankit</h1>
+<h1 align="center">Hi 👋 I'm Ankit Nayak</h1>
 <h3 align="center">A passionate Front-End Developer</h3>
 
 - 🌱 I’m currently learning <a href="https://reactjs.org/" target="_blank">ReactJS</a> and <a href="https://tailwindcss.com/" target="_blank">TailwindCSS</a>
-- 🤔 I’m looking for help with ReactJS
 - 📫 How to reach me **ankitnayakk882@gmail.com**
  
 <h3 align="left">Connect with me:</h3>
