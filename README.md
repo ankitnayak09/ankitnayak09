@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋 I'm Ankit Nayak</h1>
-<h3 align="center">A passionate Front-End Developer</h3>
+<h3 align="center">A passionate Full Stack Developer</h3>
 
 - 🌱 I’m currently learning <a href="https://reactjs.org/" target="_blank">ReactJS</a> and <a href="https://tailwindcss.com/" target="_blank">TailwindCSS</a>
 - 📫 How to reach me **ankitnayakk882@gmail.com**
